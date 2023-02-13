@@ -27,7 +27,8 @@ pageEncoding="UTF-8"%>
           <h1>Welcome User!</h1>
           <a href="http://localhost:8080/counter">Check count</a>
           <br>
-          <a href="http://localhost:8080/counterby2">Check count to increase by 2</a>
+          <a href="/counterby2">Check count to increase by 2</a>
+          <a href="/reset">Reset</a>
         </div>
       </div>
     </div>
